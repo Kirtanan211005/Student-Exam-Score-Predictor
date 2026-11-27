@@ -1,0 +1,42 @@
+Input
+Study hours = 6
+Attendance = 100%
+Part-time job = no
+Sleep hours = 7
+Mental health status = 10
+Previous exam score (optional) = None	
+
+
+Output
+- **Mental Health**: Great mental well-being! This positively impacts your learning
+- 100 in gauge chart
+- Excellent! Your habits are optimal for academic success
+
+
+
+
+Input
+Study hours = 1
+Attendance = 50%
+Part-time job = yes
+Sleep hours = 3.0
+Mental health status = 6
+Previous exam score (optional) = 47.00
+
+
+Output
+- 34.9 in gauge chart
+- redicted decrease of -12.1 points from your last score.
+- **Study Hours**: Consider increasing study hours to improve performance
+- **Attendance**: Regular attendance could boost your score significantly
+- **Part-time Job**: Balance work and study effectively to maintain performance
+- **Sleep**: More sleep could improve your focus and performance
+
+- Urgent attention needed. Please review your study habits.
+
+Immediate Actions:
+- Consult with academic advisors
+- Create a strict study schedule
+- Prioritize sleep and mental health
+- Consider reducing part-time work hours if possible
+
